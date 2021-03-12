@@ -1,0 +1,16 @@
+body{
+    margin: 10px;
+    text-align: center;
+    background-color: crimson;
+    color : white;
+}
+#box h1{
+    font-size: 50px;
+}
+#data{
+    margin: 10px;
+}
+#box{
+    margin: 50px;
+}
+ 
