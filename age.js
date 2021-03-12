@@ -9,7 +9,7 @@ function abc(){
     var days = (current_year-1-birth) * 365;
     
     var p = '';
-    p  = '<h1> You are ' + days + ' Days Old!';
+    p  = '<h1> You are more than ' + days + ' Days Old!';
 
     document.getElementById('block').innerHTML = p;
 
